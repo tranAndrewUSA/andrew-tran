@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/tranAndrewUSA/andrew-tran/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a href="url"><img src="https://user-images.githubusercontent.com/47098445/53678168-fde21780-3c6f-11e9-91ec-f7d95a5e6170.jpg" align="" height="200" width="180" ></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Info: [Email](andrewsithlord@live.com)
 
-### Markdown
+## Education
+  
+  - **MiraCosta Community College**
+A.A., Mathematics and Sciences 
+  - **4-Year University Transfer**
+B.S., Electrical Engineering and Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Programming Languages
+- **Primary Languages**: C++, Java, HMTL 
+- **Secondary Languages**: Python
 
-```markdown
-Syntax highlighted code block
+## Work Experience
+ - **Math Learning Center Tutor**
+    - *MiraCosta College (Fall 2017 - Spring 2018)*
+    - Tutored lower division mathematics courses to students that needs assistants in understanding and learning mathematical concepts.
+ 
+ - **Math Learning Center Apprentice**
+    - *MiraCosta College (Fall 2018 - Spring 2019)*
+    - Currently able to teach lower division mathematics courses at a student instructor level. Able to do private tutoring to students, aswell assisting students openly.
+    
+## Community Service
+- **Special Education Assistant*
+    - *El Camino Highschool (Fall 2014 - Spring 2015)*
+    - Helped students who are special ed accomplish daily tasks, aswell as assisting them with anything they may need and providing them company.
+- **Student Disability NoteTaker*
+    - *MiraCosta College (Spring 2017)*
+    -Notetaker for a student who had a disability impairment.
+    
+## Volunteer Work
+- **GirlTech Presentation*
+    - *MiraCosta College (Fall 2017)*
+    - Presented a presentation about women in mathmematics to promote young girls to pursue a career in the STEM field.
+- **Chemistry Lab Assistant Volunteer*
+    - *MiraCosta College (Summer 2017 - Spring 2019)
+    - Currently helping lab technicians produce solvents, clean labs, making solutions, and organizing the chemistry inventory.
+    
+## Honors and Awards
+-Permanent Presidents List (Fall 2019)
+-Recognition by the Dean - For helping a student by taking notes for them.
+-Phi Theta Kappa - Recognition for academic accomplishments,
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+    
+    
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tranAndrewUSA/andrew-tran/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
